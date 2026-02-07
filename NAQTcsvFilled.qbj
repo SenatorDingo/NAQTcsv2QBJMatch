@@ -1,0 +1,1693 @@
+{
+  "tossups_read": 22,
+  "match_teams": [
+    {
+      "bonus_points": 200,
+      "lineups": [
+        {
+          "first_question": 1,
+          "players": [
+            {
+              "name": "Jim"
+            },
+            {
+              "name": "James"
+            },
+            {
+              "name": "Jimothy"
+            },
+            {
+              "name": "Jarles"
+            }
+          ]
+        }
+      ],
+      "match_players": [
+        {
+          "player": {
+            "name": "Jim"
+          },
+          "answer_counts": [
+            {
+              "answer": {
+                "value": 10
+              },
+              "number": 1
+            },
+            {
+              "answer": {
+                "value": 15
+              },
+              "number": 1
+            },
+            {
+              "answer": {
+                "value": -5
+              },
+              "number": 1
+            }
+          ],
+          "tossups_heard": 22
+        },
+        {
+          "player": {
+            "name": "James"
+          },
+          "answer_counts": [
+            {
+              "answer": {
+                "value": 10
+              },
+              "number": 2
+            },
+            {
+              "answer": {
+                "value": 15
+              },
+              "number": 1
+            },
+            {
+              "answer": {
+                "value": -5
+              },
+              "number": 1
+            }
+          ],
+          "tossups_heard": 22
+        },
+        {
+          "player": {
+            "name": "Jimothy"
+          },
+          "answer_counts": [
+            {
+              "answer": {
+                "value": 10
+              },
+              "number": 2
+            },
+            {
+              "answer": {
+                "value": 15
+              },
+              "number": 1
+            },
+            {
+              "answer": {
+                "value": -5
+              },
+              "number": 1
+            }
+          ],
+          "tossups_heard": 22
+        },
+        {
+          "player": {
+            "name": "Jarles"
+          },
+          "answer_counts": [
+            {
+              "answer": {
+                "value": 10
+              },
+              "number": 2
+            },
+            {
+              "answer": {
+                "value": 15
+              },
+              "number": 1
+            },
+            {
+              "answer": {
+                "value": -5
+              },
+              "number": 1
+            }
+          ],
+          "tossups_heard": 22
+        }
+      ],
+      "team": {
+        "name": "T1",
+        "players": [
+          {
+            "name": "Jim"
+          },
+          {
+            "name": "James"
+          },
+          {
+            "name": "Jimothy"
+          },
+          {
+            "name": "Jarles"
+          }
+        ]
+      }
+    },
+    {
+      "bonus_points": 120,
+      "lineups": [
+        {
+          "first_question": 1,
+          "players": [
+            {
+              "name": "Tim"
+            },
+            {
+              "name": "Tames"
+            },
+            {
+              "name": "Timothy"
+            },
+            {
+              "name": "Tarles"
+            }
+          ]
+        }
+      ],
+      "match_players": [
+        {
+          "player": {
+            "name": "Tim"
+          },
+          "answer_counts": [
+            {
+              "answer": {
+                "value": 10
+              },
+              "number": 1
+            },
+            {
+              "answer": {
+                "value": 15
+              },
+              "number": 2
+            },
+            {
+              "answer": {
+                "value": -5
+              },
+              "number": 1
+            }
+          ],
+          "tossups_heard": 22
+        },
+        {
+          "player": {
+            "name": "Tames"
+          },
+          "answer_counts": [
+            {
+              "answer": {
+                "value": 10
+              },
+              "number": 1
+            },
+            {
+              "answer": {
+                "value": 15
+              },
+              "number": 2
+            },
+            {
+              "answer": {
+                "value": -5
+              },
+              "number": 1
+            }
+          ],
+          "tossups_heard": 22
+        },
+        {
+          "player": {
+            "name": "Timothy"
+          },
+          "answer_counts": [
+            {
+              "answer": {
+                "value": 10
+              },
+              "number": 1
+            },
+            {
+              "answer": {
+                "value": 15
+              },
+              "number": 2
+            },
+            {
+              "answer": {
+                "value": -5
+              },
+              "number": 1
+            }
+          ],
+          "tossups_heard": 22
+        },
+        {
+          "player": {
+            "name": "Tarles"
+          },
+          "answer_counts": [
+            {
+              "answer": {
+                "value": 15
+              },
+              "number": 2
+            },
+            {
+              "answer": {
+                "value": -5
+              },
+              "number": 1
+            }
+          ],
+          "tossups_heard": 22
+        }
+      ],
+      "team": {
+        "name": "T2",
+        "players": [
+          {
+            "name": "Tim"
+          },
+          {
+            "name": "Tames"
+          },
+          {
+            "name": "Timothy"
+          },
+          {
+            "name": "Tarles"
+          }
+        ]
+      }
+    }
+  ],
+  "match_questions": [
+    {
+      "question_number": 1,
+      "buzzes": [
+        {
+          "player": {
+            "name": "Jim"
+          },
+          "team": {
+            "name": "T1",
+            "players": [
+              {
+                "name": "Jim"
+              },
+              {
+                "name": "James"
+              },
+              {
+                "name": "Jimothy"
+              },
+              {
+                "name": "Jarles"
+              }
+            ]
+          },
+          "result": {
+            "value": 15
+          }
+        }
+      ],
+      "tossup_question": {
+        "parts": 1,
+        "type": "tossup",
+        "question_number": 1
+      },
+      "bonus": {
+        "question": {
+          "parts": 3,
+          "type": "bonus",
+          "question_number": 1
+        },
+        "parts": [
+          {
+            "controlled_points": 10
+          },
+          {
+            "controlled_points": 0,
+            "bounceback_points": 0
+          },
+          {
+            "controlled_points": 10
+          }
+        ]
+      }
+    },
+    {
+      "question_number": 2,
+      "buzzes": [
+        {
+          "player": {
+            "name": "James"
+          },
+          "team": {
+            "name": "T1",
+            "players": [
+              {
+                "name": "Jim"
+              },
+              {
+                "name": "James"
+              },
+              {
+                "name": "Jimothy"
+              },
+              {
+                "name": "Jarles"
+              }
+            ]
+          },
+          "result": {
+            "value": 15
+          }
+        }
+      ],
+      "tossup_question": {
+        "parts": 1,
+        "type": "tossup",
+        "question_number": 2
+      },
+      "bonus": {
+        "question": {
+          "parts": 3,
+          "type": "bonus",
+          "question_number": 2
+        },
+        "parts": [
+          {
+            "controlled_points": 10
+          },
+          {
+            "controlled_points": 0,
+            "bounceback_points": 0
+          },
+          {
+            "controlled_points": 0,
+            "bounceback_points": 0
+          }
+        ]
+      }
+    },
+    {
+      "question_number": 3,
+      "buzzes": [
+        {
+          "player": {
+            "name": "Jimothy"
+          },
+          "team": {
+            "name": "T1",
+            "players": [
+              {
+                "name": "Jim"
+              },
+              {
+                "name": "James"
+              },
+              {
+                "name": "Jimothy"
+              },
+              {
+                "name": "Jarles"
+              }
+            ]
+          },
+          "result": {
+            "value": 15
+          }
+        }
+      ],
+      "tossup_question": {
+        "parts": 1,
+        "type": "tossup",
+        "question_number": 3
+      },
+      "bonus": {
+        "question": {
+          "parts": 3,
+          "type": "bonus",
+          "question_number": 3
+        },
+        "parts": [
+          {
+            "controlled_points": 10
+          },
+          {
+            "controlled_points": 0,
+            "bounceback_points": 0
+          },
+          {
+            "controlled_points": 10
+          }
+        ]
+      }
+    },
+    {
+      "question_number": 4,
+      "buzzes": [
+        {
+          "player": {
+            "name": "Jarles"
+          },
+          "team": {
+            "name": "T1",
+            "players": [
+              {
+                "name": "Jim"
+              },
+              {
+                "name": "James"
+              },
+              {
+                "name": "Jimothy"
+              },
+              {
+                "name": "Jarles"
+              }
+            ]
+          },
+          "result": {
+            "value": 15
+          }
+        }
+      ],
+      "tossup_question": {
+        "parts": 1,
+        "type": "tossup",
+        "question_number": 4
+      },
+      "bonus": {
+        "question": {
+          "parts": 3,
+          "type": "bonus",
+          "question_number": 4
+        },
+        "parts": [
+          {
+            "controlled_points": 10
+          },
+          {
+            "controlled_points": 0,
+            "bounceback_points": 0
+          },
+          {
+            "controlled_points": 10
+          }
+        ]
+      }
+    },
+    {
+      "question_number": 5,
+      "buzzes": [
+        {
+          "player": {
+            "name": "Tim"
+          },
+          "team": {
+            "name": "T2",
+            "players": [
+              {
+                "name": "Tim"
+              },
+              {
+                "name": "Tames"
+              },
+              {
+                "name": "Timothy"
+              },
+              {
+                "name": "Tarles"
+              }
+            ]
+          },
+          "result": {
+            "value": 15
+          }
+        }
+      ],
+      "tossup_question": {
+        "parts": 1,
+        "type": "tossup",
+        "question_number": 5
+      },
+      "bonus": {
+        "question": {
+          "parts": 3,
+          "type": "bonus",
+          "question_number": 5
+        },
+        "parts": [
+          {
+            "controlled_points": 10
+          },
+          {
+            "controlled_points": 0,
+            "bounceback_points": 0
+          },
+          {
+            "controlled_points": 0,
+            "bounceback_points": 0
+          }
+        ]
+      }
+    },
+    {
+      "question_number": 6,
+      "buzzes": [
+        {
+          "player": {
+            "name": "Tames"
+          },
+          "team": {
+            "name": "T2",
+            "players": [
+              {
+                "name": "Tim"
+              },
+              {
+                "name": "Tames"
+              },
+              {
+                "name": "Timothy"
+              },
+              {
+                "name": "Tarles"
+              }
+            ]
+          },
+          "result": {
+            "value": 15
+          }
+        }
+      ],
+      "tossup_question": {
+        "parts": 1,
+        "type": "tossup",
+        "question_number": 6
+      },
+      "bonus": {
+        "question": {
+          "parts": 3,
+          "type": "bonus",
+          "question_number": 6
+        },
+        "parts": [
+          {
+            "controlled_points": 10
+          },
+          {
+            "controlled_points": 0,
+            "bounceback_points": 0
+          },
+          {
+            "controlled_points": 0,
+            "bounceback_points": 0
+          }
+        ]
+      }
+    },
+    {
+      "question_number": 7,
+      "buzzes": [
+        {
+          "player": {
+            "name": "Timothy"
+          },
+          "team": {
+            "name": "T2",
+            "players": [
+              {
+                "name": "Tim"
+              },
+              {
+                "name": "Tames"
+              },
+              {
+                "name": "Timothy"
+              },
+              {
+                "name": "Tarles"
+              }
+            ]
+          },
+          "result": {
+            "value": 15
+          }
+        }
+      ],
+      "tossup_question": {
+        "parts": 1,
+        "type": "tossup",
+        "question_number": 7
+      },
+      "bonus": {
+        "question": {
+          "parts": 3,
+          "type": "bonus",
+          "question_number": 7
+        },
+        "parts": [
+          {
+            "controlled_points": 10
+          },
+          {
+            "controlled_points": 0,
+            "bounceback_points": 0
+          },
+          {
+            "controlled_points": 0,
+            "bounceback_points": 0
+          }
+        ]
+      }
+    },
+    {
+      "question_number": 8,
+      "buzzes": [
+        {
+          "player": {
+            "name": "Tarles"
+          },
+          "team": {
+            "name": "T2",
+            "players": [
+              {
+                "name": "Tim"
+              },
+              {
+                "name": "Tames"
+              },
+              {
+                "name": "Timothy"
+              },
+              {
+                "name": "Tarles"
+              }
+            ]
+          },
+          "result": {
+            "value": 15
+          }
+        }
+      ],
+      "tossup_question": {
+        "parts": 1,
+        "type": "tossup",
+        "question_number": 8
+      },
+      "bonus": {
+        "question": {
+          "parts": 3,
+          "type": "bonus",
+          "question_number": 8
+        },
+        "parts": [
+          {
+            "controlled_points": 10
+          },
+          {
+            "controlled_points": 0,
+            "bounceback_points": 0
+          },
+          {
+            "controlled_points": 0,
+            "bounceback_points": 0
+          }
+        ]
+      }
+    },
+    {
+      "question_number": 9,
+      "buzzes": [
+        {
+          "player": {
+            "name": "Jim"
+          },
+          "team": {
+            "name": "T1",
+            "players": [
+              {
+                "name": "Jim"
+              },
+              {
+                "name": "James"
+              },
+              {
+                "name": "Jimothy"
+              },
+              {
+                "name": "Jarles"
+              }
+            ]
+          },
+          "result": {
+            "value": 10
+          }
+        },
+        {
+          "player": {
+            "name": "Tarles"
+          },
+          "team": {
+            "name": "T2",
+            "players": [
+              {
+                "name": "Tim"
+              },
+              {
+                "name": "Tames"
+              },
+              {
+                "name": "Timothy"
+              },
+              {
+                "name": "Tarles"
+              }
+            ]
+          },
+          "result": {
+            "value": -5
+          }
+        }
+      ],
+      "tossup_question": {
+        "parts": 1,
+        "type": "tossup",
+        "question_number": 9
+      },
+      "bonus": {
+        "question": {
+          "parts": 3,
+          "type": "bonus",
+          "question_number": 9
+        },
+        "parts": [
+          {
+            "controlled_points": 10
+          },
+          {
+            "controlled_points": 0,
+            "bounceback_points": 0
+          },
+          {
+            "controlled_points": 0,
+            "bounceback_points": 0
+          }
+        ]
+      }
+    },
+    {
+      "question_number": 10,
+      "buzzes": [
+        {
+          "player": {
+            "name": "James"
+          },
+          "team": {
+            "name": "T1",
+            "players": [
+              {
+                "name": "Jim"
+              },
+              {
+                "name": "James"
+              },
+              {
+                "name": "Jimothy"
+              },
+              {
+                "name": "Jarles"
+              }
+            ]
+          },
+          "result": {
+            "value": 10
+          }
+        },
+        {
+          "player": {
+            "name": "Timothy"
+          },
+          "team": {
+            "name": "T2",
+            "players": [
+              {
+                "name": "Tim"
+              },
+              {
+                "name": "Tames"
+              },
+              {
+                "name": "Timothy"
+              },
+              {
+                "name": "Tarles"
+              }
+            ]
+          },
+          "result": {
+            "value": -5
+          }
+        }
+      ],
+      "tossup_question": {
+        "parts": 1,
+        "type": "tossup",
+        "question_number": 10
+      },
+      "bonus": {
+        "question": {
+          "parts": 3,
+          "type": "bonus",
+          "question_number": 10
+        },
+        "parts": [
+          {
+            "controlled_points": 10
+          },
+          {
+            "controlled_points": 0,
+            "bounceback_points": 0
+          },
+          {
+            "controlled_points": 0,
+            "bounceback_points": 0
+          }
+        ]
+      }
+    },
+    {
+      "question_number": 11,
+      "buzzes": [
+        {
+          "player": {
+            "name": "Jimothy"
+          },
+          "team": {
+            "name": "T1",
+            "players": [
+              {
+                "name": "Jim"
+              },
+              {
+                "name": "James"
+              },
+              {
+                "name": "Jimothy"
+              },
+              {
+                "name": "Jarles"
+              }
+            ]
+          },
+          "result": {
+            "value": 10
+          }
+        },
+        {
+          "player": {
+            "name": "Tames"
+          },
+          "team": {
+            "name": "T2",
+            "players": [
+              {
+                "name": "Tim"
+              },
+              {
+                "name": "Tames"
+              },
+              {
+                "name": "Timothy"
+              },
+              {
+                "name": "Tarles"
+              }
+            ]
+          },
+          "result": {
+            "value": -5
+          }
+        }
+      ],
+      "tossup_question": {
+        "parts": 1,
+        "type": "tossup",
+        "question_number": 11
+      },
+      "bonus": {
+        "question": {
+          "parts": 3,
+          "type": "bonus",
+          "question_number": 11
+        },
+        "parts": [
+          {
+            "controlled_points": 10
+          },
+          {
+            "controlled_points": 0,
+            "bounceback_points": 0
+          },
+          {
+            "controlled_points": 0,
+            "bounceback_points": 0
+          }
+        ]
+      }
+    },
+    {
+      "question_number": 12,
+      "buzzes": [
+        {
+          "player": {
+            "name": "Jarles"
+          },
+          "team": {
+            "name": "T1",
+            "players": [
+              {
+                "name": "Jim"
+              },
+              {
+                "name": "James"
+              },
+              {
+                "name": "Jimothy"
+              },
+              {
+                "name": "Jarles"
+              }
+            ]
+          },
+          "result": {
+            "value": 10
+          }
+        },
+        {
+          "player": {
+            "name": "Tim"
+          },
+          "team": {
+            "name": "T2",
+            "players": [
+              {
+                "name": "Tim"
+              },
+              {
+                "name": "Tames"
+              },
+              {
+                "name": "Timothy"
+              },
+              {
+                "name": "Tarles"
+              }
+            ]
+          },
+          "result": {
+            "value": -5
+          }
+        }
+      ],
+      "tossup_question": {
+        "parts": 1,
+        "type": "tossup",
+        "question_number": 12
+      },
+      "bonus": {
+        "question": {
+          "parts": 3,
+          "type": "bonus",
+          "question_number": 12
+        },
+        "parts": [
+          {
+            "controlled_points": 10
+          },
+          {
+            "controlled_points": 0,
+            "bounceback_points": 0
+          },
+          {
+            "controlled_points": 0,
+            "bounceback_points": 0
+          }
+        ]
+      }
+    },
+    {
+      "question_number": 13,
+      "buzzes": [
+        {
+          "player": {
+            "name": "Jim"
+          },
+          "team": {
+            "name": "T1",
+            "players": [
+              {
+                "name": "Jim"
+              },
+              {
+                "name": "James"
+              },
+              {
+                "name": "Jimothy"
+              },
+              {
+                "name": "Jarles"
+              }
+            ]
+          },
+          "result": {
+            "value": -5
+          }
+        },
+        {
+          "player": {
+            "name": "Tim"
+          },
+          "team": {
+            "name": "T2",
+            "players": [
+              {
+                "name": "Tim"
+              },
+              {
+                "name": "Tames"
+              },
+              {
+                "name": "Timothy"
+              },
+              {
+                "name": "Tarles"
+              }
+            ]
+          },
+          "result": {
+            "value": 15
+          }
+        }
+      ],
+      "tossup_question": {
+        "parts": 1,
+        "type": "tossup",
+        "question_number": 13
+      },
+      "bonus": {
+        "question": {
+          "parts": 3,
+          "type": "bonus",
+          "question_number": 13
+        },
+        "parts": [
+          {
+            "controlled_points": 10
+          },
+          {
+            "controlled_points": 10
+          },
+          {
+            "controlled_points": 0,
+            "bounceback_points": 0
+          }
+        ]
+      }
+    },
+    {
+      "question_number": 14,
+      "buzzes": [
+        {
+          "player": {
+            "name": "James"
+          },
+          "team": {
+            "name": "T1",
+            "players": [
+              {
+                "name": "Jim"
+              },
+              {
+                "name": "James"
+              },
+              {
+                "name": "Jimothy"
+              },
+              {
+                "name": "Jarles"
+              }
+            ]
+          },
+          "result": {
+            "value": -5
+          }
+        },
+        {
+          "player": {
+            "name": "Tames"
+          },
+          "team": {
+            "name": "T2",
+            "players": [
+              {
+                "name": "Tim"
+              },
+              {
+                "name": "Tames"
+              },
+              {
+                "name": "Timothy"
+              },
+              {
+                "name": "Tarles"
+              }
+            ]
+          },
+          "result": {
+            "value": 15
+          }
+        }
+      ],
+      "tossup_question": {
+        "parts": 1,
+        "type": "tossup",
+        "question_number": 14
+      },
+      "bonus": {
+        "question": {
+          "parts": 3,
+          "type": "bonus",
+          "question_number": 14
+        },
+        "parts": [
+          {
+            "controlled_points": 10
+          },
+          {
+            "controlled_points": 10
+          },
+          {
+            "controlled_points": 0,
+            "bounceback_points": 0
+          }
+        ]
+      }
+    },
+    {
+      "question_number": 15,
+      "buzzes": [
+        {
+          "player": {
+            "name": "Jimothy"
+          },
+          "team": {
+            "name": "T1",
+            "players": [
+              {
+                "name": "Jim"
+              },
+              {
+                "name": "James"
+              },
+              {
+                "name": "Jimothy"
+              },
+              {
+                "name": "Jarles"
+              }
+            ]
+          },
+          "result": {
+            "value": -5
+          }
+        },
+        {
+          "player": {
+            "name": "Timothy"
+          },
+          "team": {
+            "name": "T2",
+            "players": [
+              {
+                "name": "Tim"
+              },
+              {
+                "name": "Tames"
+              },
+              {
+                "name": "Timothy"
+              },
+              {
+                "name": "Tarles"
+              }
+            ]
+          },
+          "result": {
+            "value": 15
+          }
+        }
+      ],
+      "tossup_question": {
+        "parts": 1,
+        "type": "tossup",
+        "question_number": 15
+      },
+      "bonus": {
+        "question": {
+          "parts": 3,
+          "type": "bonus",
+          "question_number": 15
+        },
+        "parts": [
+          {
+            "controlled_points": 10
+          },
+          {
+            "controlled_points": 10
+          },
+          {
+            "controlled_points": 0,
+            "bounceback_points": 0
+          }
+        ]
+      }
+    },
+    {
+      "question_number": 16,
+      "buzzes": [
+        {
+          "player": {
+            "name": "Jarles"
+          },
+          "team": {
+            "name": "T1",
+            "players": [
+              {
+                "name": "Jim"
+              },
+              {
+                "name": "James"
+              },
+              {
+                "name": "Jimothy"
+              },
+              {
+                "name": "Jarles"
+              }
+            ]
+          },
+          "result": {
+            "value": -5
+          }
+        },
+        {
+          "player": {
+            "name": "Tarles"
+          },
+          "team": {
+            "name": "T2",
+            "players": [
+              {
+                "name": "Tim"
+              },
+              {
+                "name": "Tames"
+              },
+              {
+                "name": "Timothy"
+              },
+              {
+                "name": "Tarles"
+              }
+            ]
+          },
+          "result": {
+            "value": 15
+          }
+        }
+      ],
+      "tossup_question": {
+        "parts": 1,
+        "type": "tossup",
+        "question_number": 16
+      },
+      "bonus": {
+        "question": {
+          "parts": 3,
+          "type": "bonus",
+          "question_number": 16
+        },
+        "parts": [
+          {
+            "controlled_points": 10
+          },
+          {
+            "controlled_points": 10
+          },
+          {
+            "controlled_points": 0,
+            "bounceback_points": 0
+          }
+        ]
+      }
+    },
+    {
+      "question_number": 17,
+      "buzzes": [
+        {
+          "player": {
+            "name": "Timothy"
+          },
+          "team": {
+            "name": "T2",
+            "players": [
+              {
+                "name": "Tim"
+              },
+              {
+                "name": "Tames"
+              },
+              {
+                "name": "Timothy"
+              },
+              {
+                "name": "Tarles"
+              }
+            ]
+          },
+          "result": {
+            "value": 10
+          }
+        }
+      ],
+      "tossup_question": {
+        "parts": 1,
+        "type": "tossup",
+        "question_number": 17
+      },
+      "bonus": {
+        "question": {
+          "parts": 3,
+          "type": "bonus",
+          "question_number": 17
+        },
+        "parts": [
+          {
+            "controlled_points": 0,
+            "bounceback_points": 0
+          },
+          {
+            "controlled_points": 0,
+            "bounceback_points": 0
+          },
+          {
+            "controlled_points": 0,
+            "bounceback_points": 0
+          }
+        ]
+      }
+    },
+    {
+      "question_number": 18,
+      "buzzes": [
+        {
+          "player": {
+            "name": "Tames"
+          },
+          "team": {
+            "name": "T2",
+            "players": [
+              {
+                "name": "Tim"
+              },
+              {
+                "name": "Tames"
+              },
+              {
+                "name": "Timothy"
+              },
+              {
+                "name": "Tarles"
+              }
+            ]
+          },
+          "result": {
+            "value": 10
+          }
+        }
+      ],
+      "tossup_question": {
+        "parts": 1,
+        "type": "tossup",
+        "question_number": 18
+      },
+      "bonus": {
+        "question": {
+          "parts": 3,
+          "type": "bonus",
+          "question_number": 18
+        },
+        "parts": [
+          {
+            "controlled_points": 0,
+            "bounceback_points": 0
+          },
+          {
+            "controlled_points": 0,
+            "bounceback_points": 0
+          },
+          {
+            "controlled_points": 0,
+            "bounceback_points": 0
+          }
+        ]
+      }
+    },
+    {
+      "question_number": 19,
+      "buzzes": [
+        {
+          "player": {
+            "name": "Tim"
+          },
+          "team": {
+            "name": "T2",
+            "players": [
+              {
+                "name": "Tim"
+              },
+              {
+                "name": "Tames"
+              },
+              {
+                "name": "Timothy"
+              },
+              {
+                "name": "Tarles"
+              }
+            ]
+          },
+          "result": {
+            "value": 10
+          }
+        }
+      ],
+      "tossup_question": {
+        "parts": 1,
+        "type": "tossup",
+        "question_number": 19
+      },
+      "bonus": {
+        "question": {
+          "parts": 3,
+          "type": "bonus",
+          "question_number": 19
+        },
+        "parts": [
+          {
+            "controlled_points": 0,
+            "bounceback_points": 0
+          },
+          {
+            "controlled_points": 0,
+            "bounceback_points": 0
+          },
+          {
+            "controlled_points": 0,
+            "bounceback_points": 0
+          }
+        ]
+      }
+    },
+    {
+      "question_number": 20,
+      "buzzes": [
+        {
+          "player": {
+            "name": "Jarles"
+          },
+          "team": {
+            "name": "T1",
+            "players": [
+              {
+                "name": "Jim"
+              },
+              {
+                "name": "James"
+              },
+              {
+                "name": "Jimothy"
+              },
+              {
+                "name": "Jarles"
+              }
+            ]
+          },
+          "result": {
+            "value": 10
+          }
+        }
+      ],
+      "tossup_question": {
+        "parts": 1,
+        "type": "tossup",
+        "question_number": 20
+      },
+      "bonus": {
+        "question": {
+          "parts": 3,
+          "type": "bonus",
+          "question_number": 20
+        },
+        "parts": [
+          {
+            "controlled_points": 10
+          },
+          {
+            "controlled_points": 10
+          },
+          {
+            "controlled_points": 10
+          }
+        ]
+      }
+    },
+    {
+      "question_number": 21,
+      "buzzes": [
+        {
+          "player": {
+            "name": "Jimothy"
+          },
+          "team": {
+            "name": "T1",
+            "players": [
+              {
+                "name": "Jim"
+              },
+              {
+                "name": "James"
+              },
+              {
+                "name": "Jimothy"
+              },
+              {
+                "name": "Jarles"
+              }
+            ]
+          },
+          "result": {
+            "value": 10
+          }
+        }
+      ],
+      "tossup_question": {
+        "parts": 1,
+        "type": "tossup",
+        "question_number": 21
+      },
+      "bonus": {
+        "question": {
+          "parts": 3,
+          "type": "bonus",
+          "question_number": 21
+        },
+        "parts": [
+          {
+            "controlled_points": 10
+          },
+          {
+            "controlled_points": 10
+          },
+          {
+            "controlled_points": 10
+          }
+        ]
+      }
+    },
+    {
+      "question_number": 22,
+      "buzzes": [
+        {
+          "player": {
+            "name": "James"
+          },
+          "team": {
+            "name": "T1",
+            "players": [
+              {
+                "name": "Jim"
+              },
+              {
+                "name": "James"
+              },
+              {
+                "name": "Jimothy"
+              },
+              {
+                "name": "Jarles"
+              }
+            ]
+          },
+          "result": {
+            "value": 10
+          }
+        }
+      ],
+      "tossup_question": {
+        "parts": 1,
+        "type": "tossup",
+        "question_number": 22
+      },
+      "bonus": {
+        "question": {
+          "parts": 3,
+          "type": "bonus",
+          "question_number": 22
+        },
+        "parts": [
+          {
+            "controlled_points": 10
+          },
+          {
+            "controlled_points": 10
+          },
+          {
+            "controlled_points": 10
+          }
+        ]
+      }
+    }
+  ],
+  "_round": 1,
+  "packets": "Packet 1"
+}
